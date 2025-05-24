@@ -6,7 +6,7 @@
 3. Sukrit Kaur Oberoi
 4. Yash Chawla
 
-## 🛠️ Steps for Execution
+## Steps for Execution
 
 1. Clone the Repository
    ```bash
