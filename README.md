@@ -1,10 +1,10 @@
-# Title of Project: [PROJECT_TITLE_HERE]
+# Title of Project: Blockchain based E-Voting System
 
 ## Team Members:
-1. [TEAM_MEMBER_1_NAME]
-2. [TEAM_MEMBER_2_NAME]
-3. [TEAM_MEMBER_3_NAME]
-4. [TEAM_MEMBER_4_NAME]
+1. Anshika Jain
+2. Sejal Joshi
+3. Sukrit Kaur Oberoi
+4. Yash Chawla
 
 ## Steps for Execution:
 1. [STEP 1]
@@ -18,6 +18,4 @@
 4. Synopsis
 5. Final Presentation
 6. Source Code
-7. Database dump (.sql file)
-8. If a web project, then a Docker file for deployment
-9. README (This file)
+9. README 
