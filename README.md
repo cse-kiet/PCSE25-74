@@ -7,9 +7,17 @@
 4. Yash Chawla
 
 ## Steps for Execution:
-1. [STEP 1]
-2. [STEP 2]
-   (Add more steps as needed)
+1. Clone the repository
+2. Open the project in VS Code
+3. Install dependencies
+      npm install
+4. Start Ganache
+5. Connect Metamask wallet to Ganache
+6. Compile and Deploy Smart Contracts
+  a. truffle compile
+  b. truffle migrate --reset
+7. Run the application
+      npm run dev
 
 ## Checklist:
 1. Final Project Report
